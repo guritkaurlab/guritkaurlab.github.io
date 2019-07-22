@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Gurjit Kaur Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Gurjit Kaur Lab at Delhi Technological University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the [Delhi Technological University](http://www.dtu.ac.in/). Our group is mainly involve in the study of the semiconductor photonics and optoelectronic devices and systems with a strong emphasis on vertical-cavity surface-emitting lasers (VCSELs). We are also pursuing the next generation of photonic devices, such as photonic crystal waveguides and cavities, to enable further optical communication advances. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -55,14 +55,18 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+Our current research interest is in the area of design and modeling of optoelectronics, nano-photonics devices with main focus on the experimental and theoretical characterization of high germanium content Ge/SiGe quantum well (QW) devices, such as modulators, LEDs, lasers, and photodetectors, on Si substrate. For further description (see [Research](research)).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+For the last two years, we are actively involved with the Microelectronics and VLSI Research Group at IIT Roorkee, dedicated to the understanding, design, and analysis of Nanoscale Interconnects and Devices, CNT Based Applications, Organic Electronics, VCSELs, the photodetector and Optical Waveguide for Optical Interconnects. All these work experience had triggered our interest in nanoscale design and jump-started several fruitful collaborations in those areas. 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+We are also been an active member of Incubation Center of Medical Electronics at Indian Institute of Technology(IIT),Patna ,which is funded by Government of India (47%) and the Government of Bihar (53%) under ”MAKE IN INDIA” initiative,focussed primarily on incubating ventures in the Electronics Systems Design and Manufacturing (ESDM) and Medical Electronics.
 
+We are located at Delhi Technological University, the birthplace of superconductivity and home to Vinod Dham (Also Known as the "The father of the Pentium Chips"for his contribution to the development of Intel's Pentium micro-processor), Sanjiv Ahuja(The Chairman and CEO of Tillman Global Holdings), Rohit Chadda (The CEO for the digital business at Zee group), and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)).
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+Delhi Technological University (DTU), formerly known as the Delhi College of Engineering (DCE), is a premier public university located in New Delhi, India. It is Delhi's first Engineering college and among those few engineering colleges of India which were set up before independence.[2][3] It was established in 1941 as Delhi Polytechnic and was under the control of the Government of India
+
+ **Currently, we are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
