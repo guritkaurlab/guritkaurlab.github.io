@@ -1,7 +1,7 @@
-- name: Milan P Allan
+- name: Dr. Gurjit Kaur
   photo: Milan.jpg
-  info: Assistant Professor, started Jan 2015
-  email: milan.allan@gmail.com
+  info: Associatet Professor, started March 2018
+  email: gurjitkaur@dtu.ac.in
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
   education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
@@ -19,22 +19,23 @@
   education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
-- name: Irene Battisti
+- name: Yaman Parasher
   photo: irene.jpg
-  info: PhD student, started Jan 2015
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+  info: Selected to pursue Erasmus Joint Master Degree (PIXNET) at Scuola Superiore Sant'Anna,Pisa,Italy
+  email: parasheryaman19@gmail.com
   number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  education1: Integrated Dual Degree B.Tech (Electronics & Communication Engineering) + M.Tech (Wireless Communication & Networks) at 
+  <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Gautam Buddha University</a>
 
-- name: Maarten Leeuwenhoek
+- name: Garima Singh
+  photo: Koen.jpg
+  info: PhD Student, started Jul. 2018
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: BE degree in Electronics and Communication Engineering from <a href="https://www.sharda.ac.in/">Sharda University</a> in 2013
+  education2: ME (Electronics and Communication) from <a href="http://www.jiit.ac.in/">Jaypee Institute of Information and Technology</a> in 2015
+  
+- name: Dushyant Singh
   photo: Maarten.png
   info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
   email: M.Leeuwenhoek@tudelft.nl
