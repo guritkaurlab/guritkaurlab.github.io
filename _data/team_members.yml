@@ -19,14 +19,14 @@
   education3: Integrated Dual Degree B.Tech (Electronics and Communication Engineering)  <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
   education4: Postdoc Rutgers with <a href="https://www.santannapisa.it/en/institute/tecip/communication-inrete-lab">Scuola Superiore Sant'Anna</a>
 
-- name: Koen M Bastiaans
+- name: Garima Singh
   photo: Koen.jpg
-  info: PhD Student, started Sep 2015
+  info: PhD Student, started Jul 2018
   email: Bastiaans@Physics.LeidenUniv.nl
   number_educ: 1
   education1: Master Leiden University with Milan Allan
 
-- name: Maarten Leeuwenhoek
+- name: Dushyant Singh Chauhan
   photo: Maarten.png
   info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
   email: M.Leeuwenhoek@tudelft.nl
@@ -36,9 +36,9 @@
   education3:
   education4:
 
-- name: Damianos Chatzopoulos
+- name: Akanksha Srivastava
   photo: Damianos.jpg
-  info: PhD Student, started December 2017
+  info: PhD Student, started Jul 2019
   email: chatzopoulos@Physics.LeidenUniv.nl
   number_educ: 2
   education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
@@ -46,51 +46,13 @@
   education3:
   education4:
 
-- name: Willem Tromp
+- name: Saurabh Katiyar
   photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+  info: PhD Student, started Jul 2019
+  email: saurabh0277@gmail.com
   number_educ: 1
   education1: Master Leiden University with Felix Baumberger, Milan Allan
   education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Vincent Stalman
-  photo: Photo Vincent.jpg
-  info: PhD Student, started November 2018
-  email: stalman@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master University of Amsterdam with Diego Hofman
-  education2:
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer associated with the FMD working in our group
-  email: Groenewoud@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
   education3:
   education4:
 
