@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-At the our group at [Delhi Technological University](http://www.dtu.ac.in/), we mainly explores the use of signal processing, communication theory, and optical techniques in designing high capacity optical multiuser/multichannel systems and networks. Apart from this our group is also involved in the the design, optimization and application of nanofabricated photonic devices for both linear and nonlinear optical interactions.  These devices will serve as the basis for constructing compact chip-scale optical systems for a variety of functionalities including optical communications, sensing, imaging, spectroscopy, high speed processing and precision measurement. We are also pursuing the next generation of photonic devices, such as photonic crystal waveguides and cavities, to enable further optical communication advances. 
+At the our group at [Delhi Technological University](http://www.dtu.ac.in/), we mainly explores the use of signal processing, communication theory, and optical techniques in designing high capacity optical multiuser/multichannel systems and networks. Apart from this our group is also involved in the the design, optimization and application of nanofabricated photonic devices for both linear and nonlinear optical interactions.  These devices will serve as the basis for constructing compact chip-scale optical systems for a variety of functionalities including optical communications, sensing, imaging, spectroscopy, high speed processing and precision measurement.  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -57,7 +57,7 @@ We are located at Delhi Technological University, the birthplace and home to Vin
 
 Delhi Technological University (DTU), formerly known as the Delhi College of Engineering (DCE), is a premier public university located in New Delhi, India. It is Delhi's first Engineering college and among those few engineering colleges of India which were set up before independence.It was established in 1941 as Delhi Polytechnic and was under the control of the Government of India.
 
- **Currently, we are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Currently, we are  looking for passionate new PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <figure class="fourth">
