@@ -1,5 +1,5 @@
 - name: Gurjit Kaur (Lab Head)
-  photo: Milan.jpg
+  photo: Lab1.jpg
   info: Associate Professor, started Mar 2018
   email: milan.allan@gmail.com
   number_educ: 3
@@ -8,7 +8,7 @@
   education3: PhD (Optical Communication) from <a href="https://www.pec.ac.in/">PEC University of Technology</a>, Chandigarh, Punjab, India
  
 - name: Yaman Parasher
-  photo: Doohee2.jpg
+  photo: Lab2.jpg
   info: Student
   email: parasheryaman19@gmail.com
   number_educ: 2
@@ -16,7 +16,7 @@
   education2: Integrated Dual Degree B.Tech (Electronics and Communication Engineering) + M.Tech (Wireless Communication and Networks) from <a href="http://www.gbu.ac.in/">Gautam Buddha University</a>
   
 - name: Garima Singh
-  photo: Koen.jpg
+  photo: Lab3.jpg
   info: PhD Student, started Jul 2018
   email: garimasinghmavi@gmail.com
   number_educ: 2
@@ -24,7 +24,7 @@
   education2: ME in Electronics and Communication Engineering from <a href="http://www.jiit.ac.in/">jaypee Institute of Information Technology</a>, Noida
 
 - name: Dushyant Singh Chauhan
-  photo: Maarten.png
+  photo: Lab4.png
   info: PhD Student, started Jul 2018
   email: dsc.niet@gmail.com
   number_educ: 2
@@ -34,7 +34,7 @@
   education4:
 
 - name: Akanksha Srivastava
-  photo: Damianos.jpg
+  photo: Lab5.png
   info: PhD Student, started Jul 2019
   email: akankshasrivastava30@gmail.com	
   number_educ: 2
@@ -44,7 +44,7 @@
   education4:
 
 - name: Saurabh Katiyar
-  photo: website_pic_willem.jpg
+  photo: Lab6.jpg
   info: PhD Student, started Jul 2019
   email: saurabh0277@gmail.com
   number_educ: 1
@@ -55,8 +55,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="https://guritkaurlab.github.io/vacancies">openings</a> for more info
+  email: gurjeet_kaur@rediffmail.com
   number_educ: 0
   education1:
   education2:
