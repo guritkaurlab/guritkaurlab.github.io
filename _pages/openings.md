@@ -23,10 +23,10 @@ It might be interesting to look at some past job advertisements. While the proje
 ### Applications for PhD and positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:gurjeet_kaur@rediffmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. I'd be happy to support you after you apply through proper admission process of DTU. **Important**: please insert _"Application PhD"_in the subject line. If you are applying to a specific advertisement, note this in your email.
 
-### Master projects for Leiden University students
+### Master projects for Delhi Technological University students
 If you are a Master student at Delhi Technological University looking for a Master project, contact me (or any group member) per email or stop by my office located in the Mechanical Department,Thrird Floor, Room Number [FW4-TF-15].
 
-### Bsc / Master students from elsewhere
+### B.Tech / M.Tech students from elsewhere
 If you are interested in pursuing a Master degree at Delhi Technological University,kindly refer official website of DTU.
 Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation alongwith relevant projects related to our area of expertise).
 
