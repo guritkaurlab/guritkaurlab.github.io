@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-At the our group at [Delhi Technological University](http://www.dtu.ac.in/), we mainly explores the use of signal processing, communication theory, and optical techniques in designing high capacity optical multiuser/multichannel systems and networks. Apart from this our group is also involved in the the design, optimization and application of nanofabricated photonic devices for both linear and nonlinear optical interactions.  These devices will serve as the basis for constructing compact chip-scale optical systems for a variety of functionalities including optical communications, sensing, imaging, spectroscopy, high speed processing and precision measurement.  
+At the our lab at [Delhi Technological University](http://www.dtu.ac.in/), we mainly explores the use of signal processing, communication theory, and optical techniques in designing high capacity optical multiuser/multichannel systems and networks. Apart from this our group is also involved in the the design, optimization and application of photonic devices for both linear and nonlinear optical interactions.  These devices will serve as the basis for constructing compact chip-scale optical systems for a variety of functionalities including optical communications, sensing, imaging, spectroscopy, high speed processing and precision measurement.  
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -50,10 +50,10 @@ At the our group at [Delhi Technological University](http://www.dtu.ac.in/), we 
   </a>
 </div>
 
-Our current research is focused on these directions: Adaptive optical networks , Advanced modulation and coding for optical communication systems, FSO and hybrid RF/FSO networks and communications, Design and modeling of optoelectronics, nano-photonics devices, such as modulators, LEDs, lasers, and photodetectors, on Si substrate,and Green Technology for IoT applications.
+Our current research is focused on these directions: Adaptive optical networks , Advanced modulation and coding for optical communication systems, FSO and hybrid RF/FSO networks and communications, Design and modeling of optoelectronics, nano-photonics devices, such as modulators, LEDs, lasers, and photodetectors, on Si substrate,and Green Technology for IoT & Smart Cities applications.
 For further description (see [Research](research)).
 
-We are located at Delhi Technological University, the birthplace and home to Vinod Dham (Also Known as the "The father of the Pentium Chips"for his contribution to the development of Intel's Pentium micro-processor), Sanjiv Ahuja(The Chairman and CEO of Tillman Global Holdings), Rohit Chadda (The CEO for the digital business at Zee group), and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)).
+We are located at Delhi Technological University, the birthplace and home to Vinod Dham (Also Known as the "The father of the Pentium Chips"for his contribution to the development of Intel's Pentium micro-processor), Sanjiv Ahuja(The Chairman and CEO of Tillman Global Holdings), Rohit Chadda (The CEO for the digital business at Zee group), and others.
 
 Delhi Technological University (DTU), formerly known as the Delhi College of Engineering (DCE), is a premier public university located in New Delhi, India. It is Delhi's first Engineering college and among those few engineering colleges of India which were set up before independence.It was established in 1941 as Delhi Polytechnic and was under the control of the Government of India.
 
