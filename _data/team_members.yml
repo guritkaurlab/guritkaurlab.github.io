@@ -19,26 +19,27 @@
   photo: Koen.jpg
   info: PhD Student, started Jul 2018
   email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+  number_educ: 2
+  education1: BE in ELectronics and Communication Engineering from <a href="https://www.sharda.ac.in/">Sharda University</a>, Lucknow
+  education2: ME in ELectronics and Communication Engineering from <a href="http://www.jiit.ac.in/">jaypee Institute of Information Technology</a>, Noida
 
 - name: Dushyant Singh Chauhan
   photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
+  info: PhD Student, started Jul 2018
+  email: dsc.niet@gmail.com
+  number_educ: 2
+  education1: B.Tech in ELectronics and Communication Engineering from <a href="https://aktu.ac.in/">APJ Abdul Kalam Technical University</a>, Lucknow
+  education2: M.E. in Electronics from <a href="https://www.pec.ac.in/">Punjab Engineering College</a>, Chandigarh
   education3:
   education4:
 
 - name: Akanksha Srivastava
   photo: Damianos.jpg
   info: PhD Student, started Jul 2019
-  email: chatzopoulos@Physics.LeidenUniv.nl
+  email: akankshasrivastava30@gmail.com	
   number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education1: B.Tech in ELectronics and Communication Engineering from <a href="https://aktu.ac.in/">APJ Abdul Kalam Technical University</a>, Lucknow
+  education2: M.Tech in ELectronics and Communication Engineering from <a href="https://aktu.ac.in/">APJ Abdul Kalam Technical University</a>, Lucknow
   education3:
   education4:
 
@@ -47,7 +48,7 @@
   info: PhD Student, started Jul 2019
   email: saurabh0277@gmail.com
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
+  education1: Master from <a href="http://www.jiit.ac.in/">Jaypee Institute of Information Technology</a>,Noida, Uttar Pradesh, India with Felix Baumberger, Milan Allan
   education2:
   education3:
   education4:
