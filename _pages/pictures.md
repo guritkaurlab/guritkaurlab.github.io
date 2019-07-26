@@ -3,7 +3,7 @@ title: "Gurjit Kaur Lab - Research"
 layout: textlay
 excerpt: "Gurjit Kaur Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /pics/
 ---
 
 # Research
