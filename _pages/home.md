@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Delhi Technological University](http://www.dtu.ac.in/). Our group is mainly involve in the study of the semiconductor photonics and optoelectronic devices and systems with a strong emphasis on vertical-cavity surface-emitting lasers (VCSELs). We are also pursuing the next generation of photonic devices, such as photonic crystal waveguides and cavities, to enable further optical communication advances. 
+At the our group at [Delhi Technological University](http://www.dtu.ac.in/), we mainly explores the use of signal processing, communication theory, and optical techniques in designing high capacity optical multiuser/multichannel systems and networks. Apart from this our group is also involved in the the design, optimization and application of nanofabricated photonic devices for both linear and nonlinear optical interactions.  These devices will serve as the basis for constructing compact chip-scale optical systems for a variety of functionalities including optical communications, sensing, imaging, spectroscopy, high speed processing and precision measurement. We are also pursuing the next generation of photonic devices, such as photonic crystal waveguides and cavities, to enable further optical communication advances. 
 
-
+So far we have been applying our expertise mainly in digital communication theory (coding, modulation, detection, and estimation), to increase the efficiency of optical communication systems at both the physical layer (signal processing, modulation and coding, and parallelization) as well as the network layer (switching, routing, multiplexing, and spectrum assignment.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -52,14 +52,8 @@ We are a dynamic research group at the [Delhi Technological University](http://w
   </a>
 </div>
 
-
-
-
-Our current research interest is in the area of design and modeling of optoelectronics, nano-photonics devices with main focus on the experimental and theoretical characterization of high germanium content Ge/SiGe quantum well (QW) devices, such as modulators, LEDs, lasers, and photodetectors, on Si substrate. For further description (see [Research](research)).
-
-For the last two years, we are actively involved with the Microelectronics and VLSI Research Group at IIT Roorkee, dedicated to the understanding, design, and analysis of Nanoscale Interconnects and Devices, CNT Based Applications, Organic Electronics, VCSELs, the photodetector and Optical Waveguide for Optical Interconnects. All these work experience had triggered our interest in nanoscale design and jump-started several fruitful collaborations in those areas. 
-
-We are also been an active member of Incubation Center of Medical Electronics at Indian Institute of Technology(IIT),Patna ,which is funded by Government of India (47%) and the Government of Bihar (53%) under ”MAKE IN INDIA” initiative,focussed primarily on incubating ventures in the Electronics Systems Design and Manufacturing (ESDM) and Medical Electronics.
+Our current research is focused on these directions: Adaptive optical networks , Advanced modulation and coding for optical communication systems, FSO and hybrid RF/FSO networks and communications, Design and modeling of optoelectronics, nano-photonics devices, such as modulators, LEDs, lasers, and photodetectors, on Si substrate,and Green Technology for IoT applications.
+For further description (see [Research](research)).
 
 We are located at Delhi Technological University, the birthplace of superconductivity and home to Vinod Dham (Also Known as the "The father of the Pentium Chips"for his contribution to the development of Intel's Pentium micro-processor), Sanjiv Ahuja(The Chairman and CEO of Tillman Global Holdings), Rohit Chadda (The CEO for the digital business at Zee group), and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)).
 
