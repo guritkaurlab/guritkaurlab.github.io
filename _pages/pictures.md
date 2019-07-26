@@ -1,78 +1,30 @@
 ---
-title: "Allan Lab - Pictures"
-layout: piclay
-excerpt: "Allan Lab -- Pictures"
-permalink: /pictures/
+title: "Gurjit Kaur Lab - Research"
+layout: textlay
+excerpt: "Gurjit Kaur Lab -- Research"
+sitemap: false
+permalink: /research/
 ---
 
-# Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+# Research
+
+### Optical Communication Systems
+Fiber-optic communication systems carry most of today’s global internet traffic and other data communication services. This is essential for video conferencing, telemedicine, video-on-demand, data processing and storage in the cloud, “Internet of Things,” and 4G and 5G mobile services. As the potential improvements by legacy wavelength-division multiplexing hardware become costlier or even infeasible, optical communications are paving the way to meet the challenges of increasing bandwidth demanded by society.
+Our group focuses on new methods to increase the capacity of existing optical links through software optimizations. Our goal is to extend transmission distances, increase bandwidth, and reduce energy consumption, and through this, we strive to achieve long term social and environmental impact. 
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+
+### Design and Modeling for Integrated Photonics
+Computer simulation of photonic components is a crucial step in the design process because fabricating a large number of prototypes is prohibitively expensive and time-consuming. Our research efforts in modeling span a large class of photonic devices, like DFB and DBR laser diodes, gratings, resonant-cavity light-emitting diodes, vertical-cavity surface-emitting lasers, and photonic crystal devices. 
+My research group is involved in the study of semiconductor photonic and optoelectronic device physics, fabrication technologies, and systems with a strong emphasis on vertical-cavity surface-emitting lasers (VCSELs). 
+
+Photonic devices are key components for the infrastructure of the Information Age. Active devices, such as VCSELs, are the foundation for short and soon medium length optical fiber-based interconnect applications. Currently, I have research efforts to develop new VCSEL devices, such as for high aggregate rate interconnects. We are also pursuing the next generation of photonic devices, such as photonic crystal waveguides and cavities, to enable further optical communication advances.
+ 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
+ 
+### On-Chip and Short-Reach Optical Interconnects
+As the demand for data continues to increase, optical interconnects are becoming more attractive for on-chip and short-reach data links. Our group has been developing technologies for optical interconnects to and inside data centers, and we have also been investigating the design and architecture of optically interconnected manycore processor systems. 
 
 
-## Leiden
 
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
-</figure>
-
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
-</figure>
-
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
+Important technologies for these applications include low-power and high-speed microring modulators, low-loss waveguides, and high-efficiency laser sources.
