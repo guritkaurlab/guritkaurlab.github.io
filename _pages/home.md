@@ -7,8 +7,6 @@ permalink: /
 ---
 
 At the our group at [Delhi Technological University](http://www.dtu.ac.in/), we mainly explores the use of signal processing, communication theory, and optical techniques in designing high capacity optical multiuser/multichannel systems and networks. Apart from this our group is also involved in the the design, optimization and application of nanofabricated photonic devices for both linear and nonlinear optical interactions.  These devices will serve as the basis for constructing compact chip-scale optical systems for a variety of functionalities including optical communications, sensing, imaging, spectroscopy, high speed processing and precision measurement. We are also pursuing the next generation of photonic devices, such as photonic crystal waveguides and cavities, to enable further optical communication advances. 
-
-So far we have been applying our expertise mainly in digital communication theory (coding, modulation, detection, and estimation), to increase the efficiency of optical communication systems at both the physical layer (signal processing, modulation and coding, and parallelization) as well as the network layer (switching, routing, multiplexing, and spectrum assignment.
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
