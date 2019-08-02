@@ -1,7 +1,7 @@
 - title: "Two-Stage Spectrum Sensing Using Fuzzy Logic for Cognitive Radio Networks"
   image: PbSpub.png
   description: We present a two-stage detection scheme using fuzzy logic for spectrum sensing. The first stage consists of the dynamic double-threshold energy detector, whereas the second stage uses of a fuzzy logic system. The novelty of the proposed spectrum sensing technique lies in its decision-making capability at individual nodes without adding any overhead to the system in terms of control channel which ultimately reduces the bandwidth consumption.
-  authors: Ahuja, B. & Kaur, G. 
+  authors: Bhavna Ahuja and Gurjit Kaur 
   link: 
     url: https://link.springer.com/article/10.1007%2Fs40010-019-00595-7
     display:  Proc. Natl. Acad. Sci., India, Sect. A Phys. Sci. (2019). 
@@ -11,10 +11,10 @@
 - title: "Design of novel hybrid WDM/multiple-beam FSO system to improve the link length in rainy season"
   image: SFpub.png
   description: As single laser beam cannot deal with the effect of turbulent atmospheric channels in free space optic (FSO) system, so we have proposed a novel hybrid WDM/multiple-beam system which can reduce the effects of tropical rain weather condition and provide a significant enhancement in the link range, scalability and received optical power.
-  authors: Srivastava, D., Kaur, G. & Singh, P
+  authors: Disha Srivastava , Gurjit Kaur and Prabhjot Singh
   link:
     url: https://bit.ly/2LVoKKf
-    display:  J Opt (2019) 48: 184. 
+    display:  J Opt (2019) 48: 184 
   highlight: 1
   news2:
 
@@ -35,7 +35,7 @@
   description: 
 we propose a multichannel OFDM system by using an advanced modulation technique, i. e. quadrature amplitude modulation which not only improves the capacity but also makes the system power efficient. In order to demonstrate that our proposed system is power efficient, a set of simulations have been performed. 
 .
-  authors: Kaur, G., Kumar, A., Parasher, Y., et al. 
+  authors: Gurjit Kaur
   link:
     url: https://www.degruyter.com/view/j/joc.ahead-of-print/joc-2018-0062/joc-2018-0062.xml
     display:  Journal of Optical Communications (2018)
