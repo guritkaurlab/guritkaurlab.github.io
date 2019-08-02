@@ -1,40 +1,44 @@
-- title: "Imaging doubled shot noise in a Josephson scanning tunneling microscope"
+- title: "Two-Stage Spectrum Sensing Using Fuzzy Logic for Cognitive Radio Networks"
   image: PbSpub.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
-  authors: KM Bastiaans, D Cho, D Chatzopoulos, M Leeuwenhoek, C Koks, MP Allan
+  description: We present a two-stage detection scheme using fuzzy logic for spectrum sensing. The first stage consists of the dynamic double-threshold energy detector, whereas the second stage uses of a fuzzy logic system. The novelty of the proposed spectrum sensing technique lies in its decision-making capability at individual nodes without adding any overhead to the system in terms of control channel which ultimately reduces the bandwidth consumption.
+  authors: Ahuja, B. & Kaur, G. 
   link: 
-    url: https://arxiv.org/abs/1907.05808
-    display:  arxiv:1907.05808
+    url: https://link.springer.com/article/10.1007%2Fs40010-019-00595-7
+    display:  Proc. Natl. Acad. Sci., India, Sect. A Phys. Sci. (2019). 
   highlight: 1
   news2:
 
-- title: "A strongly inhomogeneous superfluid in an iron-based superconductor"
+- title: "Design of novel hybrid WDM/multiple-beam FSO system to improve the link length in rainy season"
   image: SFpub.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: D Cho* & KM Bastiaans* & D Chatzopoulos*, GD Gu, MP Allan
+  description: As single laser beam cannot deal with the effect of turbulent atmospheric channels in free space optic (FSO) system, so we have proposed a novel hybrid WDM/multiple-beam system which can reduce the effects of tropical rain weather condition and provide a significant enhancement in the link range, scalability and received optical power.
+  authors: Srivastava, D., Kaur, G. & Singh, P
   link:
-    url: https://arxiv.org/abs/1901.00149
-    display:  arxiv:1901.00149
+    url: https://bit.ly/2LVoKKf
+    display:  J Opt (2019) 48: 184. 
   highlight: 1
   news2:
 
-- title: "Definition of design guidelines, construction and performance of an ultra-stable scanning tunneling microscope for spectroscopic imaging"
+- title: "Development of a novel hybrid PDM/OFDM technique for FSO system and its performance analysis"
   image: DomePub.png
-  description: Our first completely home-built STM is alive! And it has the world’s highest resonance frequency.
-  authors: I Battisti, G Verdoes, K van Oosten, KM Bastiaans, and MP Allan
+  description: A novel design for FSO communication system is presented. The proposed model is designed by hybridizing PDM and OFDM and its performance is analyzed under different atmospheric turbulences. The proposed design exhibits an improved performance because PDM technique not only boost the user capacity but also enhances the spectral efficiency and OFDM modulation reduces the multipath fading occurred during the FSO transmission.
+  authors: Kaur Gurjit , Srivastava Disha, Singh, Prabhjot, Parasher, Yaman
+
+
   link:
-    url: https://aip.scitation.org/doi/10.1063/1.5064442
-    display:  Rev. Sci. Instrum. 89, 123705 (2018)
+    url: https://www.sciencedirect.com/science/article/pii/S0030399217316730
+    display:  Optics and Laser Technology (2019), Volume 109, p. 256-262
   highlight: 1
   news2:
 
-- title: "Charge trapping and super-Poissonian noise centres in a cuprate superconductor"
+- title: "Design of Multichannel Optical OFDM System Using Advanced Modulation Techniques"
   image: Pub_BCl.png
-  description: Using our newly developed noise-spectroscopy technique we discover charge trapping in a cuprate high-temperature superconductor.
-  authors: KM Bastiaans* & D Cho*, T Benschop, I Battisti, Y Huang, MS Golden, Q Dong, Y Jin, J Zaanen, MP Allan
+  description: 
+we propose a multichannel OFDM system by using an advanced modulation technique, i. e. quadrature amplitude modulation which not only improves the capacity but also makes the system power efficient. In order to demonstrate that our proposed system is power efficient, a set of simulations have been performed. 
+.
+  authors: Kaur, G., Kumar, A., Parasher, Y., et al. 
   link:
-    url: https://www.nature.com/articles/s41567-018-0300-z
-    display:  Nature Physics 14, 1183 (2018)
+    url: https://www.degruyter.com/view/j/joc.ahead-of-print/joc-2018-0062/joc-2018-0062.xml
+    display:  Journal of Optical Communications (2018)
   highlight: 1
   news1: <a href="https://aip.scitation.org/doi/10.1063/1.5043267">Instrument details in Rev. Sci. Instrum. 89, 093709 (2018)</a>
   news2: See also <a href="http://www.quantumuniverse.nl/een-isolerende-supergeleider"> quantum universe </a> (in dutch), <a href="https://phys.org/news/2018-10-mysterious-insulating-phenomenon-superconductor.html"> Phys.org </a>, <a href="https://www.universiteitleiden.nl/en/news/2018/10/insulating-phenomenon-in-superconductor"> Leiden University news</a>, <a href="http://iop.uva.nl/content/news/2018/10/noise-helps-physicists-discover-insulating-phenomenon-in-superconductor.html"> UvA news<a>.
