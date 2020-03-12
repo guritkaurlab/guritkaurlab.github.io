@@ -60,7 +60,4 @@ Delhi Technological University (DTU), formerly known as the Delhi College of Eng
  **Currently, we are  looking for passionate new PhD students, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DTU.png" style="width: 210px">
-  
-</figure>
+
