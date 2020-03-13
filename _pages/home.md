@@ -22,7 +22,7 @@ At the our lab at [Delhi Technological University](http://www.dtu.ac.in/), we ma
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/_DTU1035.JPG" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/dtu2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/_DTU1111.JPG" alt="Slide 2" />
